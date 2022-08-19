@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "eaf4c873750aa493",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d214d2822596950",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Custom scripts or commands.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2619fbfaf3bd8e4d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "764f81fd833f0748",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "6ae078cdb47be979",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "89d07829f559328b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3108d628ece08cad",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Custom scripts or commands.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5d214d2822596950",
+  "lastOpenFiles": [
+    "Custom scripts or commands.md",
+    "Aircrack-ng.md",
+    "Qemu & virt manager.md",
+    "Vim.md",
+    "Browser-sync.md",
+    "Xterm customization.md",
+    "Sources list.md",
+    "Nvm (node version manager).md",
+    "X server (graphic interface).md",
+    "Ufw debian.md"
+  ]
+}
