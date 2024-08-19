@@ -3,5 +3,7 @@ Free and open source version control systm designed to handle everything from sm
 
 ## Install
 `$ sudo apt install git`
+
 or
+
 `apt install git`
