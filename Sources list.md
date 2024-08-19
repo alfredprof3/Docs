@@ -1,4 +1,5 @@
-# Sources list (free and privative)
+**Source list configuration for privative**
+
 ---
 
 ## Config

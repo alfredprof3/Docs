@@ -1,5 +1,12 @@
-# xterm terminal customization
+Terminal emulator for the X window system.
+
 ---
+
+#### Install
+
+`$ sudo apt install xterm`
+
+#### Customize
 
 1. Create **.Xresources** file at home user
 

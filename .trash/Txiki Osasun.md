@@ -1,0 +1,12 @@
+-  Alinear la palabra Txiki Osasun a la diagonal del amarillo y a la diagonal del verde. corto plazo
+-  Poner circulo en medio. corto plazo
+-  Animación del isotipo stop motion con legos + animación de marca a modo de intro. corto plazo
+-  Fotografías con maquillista profesional. corto plazo
+-  Registro en el IMPI. corto plazo
+-  Página web acomodar tamaños. mediano plazo
+-  Diplomas se pondrá la huellita del bebé. mediano plazo
+-  Pañaleros para los bebés de recien nacidos del pol. mediano plazo
+-  Tazas para las mamás. mediano plazo
+-  Presupuesto del registro y junto con los honorarios. IMPORTANTE
+- girAR LENTO ASPAS
+- Cambiar botones de la página web

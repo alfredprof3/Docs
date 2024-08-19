@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Custom scripts or commands.md",
-            "mode": "source"
+            "file": "Nvm (node version manager).md",
+            "mode": "preview"
           }
         }
       }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Custom scripts or commands.md",
+            "file": "Nvm (node version manager).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,15 +73,15 @@
   },
   "active": "5d214d2822596950",
   "lastOpenFiles": [
-    "Custom scripts or commands.md",
-    "Aircrack-ng.md",
-    "Qemu & virt manager.md",
-    "Vim.md",
-    "Browser-sync.md",
-    "Xterm customization.md",
-    "Sources list.md",
     "Nvm (node version manager).md",
+    "Xterm customization.md",
     "X server (graphic interface).md",
-    "Ufw debian.md"
+    "Vim.md",
+    "Scripting en bash.md",
+    "Aircrack-ng.md",
+    "README.md",
+    "Qemu & virt manager.md",
+    "Ufw debian.md",
+    "Sources list.md"
   ]
 }

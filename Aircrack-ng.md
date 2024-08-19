@@ -1,7 +1,8 @@
-# Aircrack-ng
+Collection of tools used to audit WiFi networks
+
 ---
 
-## Install
+#### Install
 ```bash
 # apt install autoconf \
 automake \
@@ -67,25 +68,33 @@ node-sqlite3 \
 ```
 
 1. Download
+
 `# wget https://download.aircrack-ng.org/aircrack-ng-1.7.tar.gz`
 
 2. Tar
+
 `# tar -zxvf aircrack-ng-1.7.tar.gz`
 
-3. Change
+3. Directory
+
 `# cd aircrack-ng-1.7`
 
 4. Autoreconf
+
 `# autoreconf -i`
 
 5. Configure
+
 `# ./configure --with-experimental`
 
 6. Compile
+
 `# make -j4`
 
 7. Install
+
 `# make install`
 
 8.  Create links commands
+
 `ldconfig`
