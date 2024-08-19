@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"type":"text","text":"Ddw","id":"22dc760d6e6c8620","x":-366,"y":-203,"width":250,"height":60,"color":"5"},
-		{"id":"bc7814fb088c106b","x":-348,"y":-96,"width":250,"height":60,"type":"text","text":"Gtu"}
-	],
-	"edges":[]
-}
