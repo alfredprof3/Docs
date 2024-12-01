@@ -1,7 +1,5 @@
 **Learn Shell scripting with short tutorials**
 
----
-
 ### Create and execute your first script
 
 Create the sh file

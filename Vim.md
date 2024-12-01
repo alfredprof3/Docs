@@ -44,18 +44,3 @@ Increase/reduce the height:
 
 Reset the width and height of windows:
 \<C-w> =
-
-### Termux
-The following shortcuts are available when using termux with  a hardware keyboard by combining them with Ctrl+Alt
-C -> Create a new session
-R -> Rename current session
-N -> Next session
-P -> Previous session
-Right arrow -> Open drawer
-Left arrow -> Close drawer 
-M -> Show menu
-U -> Select URL
-V -> Paste
-+/- -> Adjust text size
-1-9 -> Go to numbered session
-K -> Enable / Disable soft keyboard

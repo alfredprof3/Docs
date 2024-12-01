@@ -1,6 +1,4 @@
-**Source list configuration for privative**
-
----
+Source list configuration for privative
 
 ## Config
 1. Adding **contrib non-free**

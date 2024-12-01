@@ -1,7 +1,5 @@
 A command line tool use for web development. Refresh your browser after save it.
 
----
-
 #### Install
 `$ npm install -g browser-sync`
 
