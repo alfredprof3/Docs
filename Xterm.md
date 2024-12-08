@@ -13,7 +13,7 @@ Terminal emulator for the X window system.
 `$ vim $HOME/.Xresources`
 
 2. Adding this lines:
-
+- Option #1
 ```bash
 ! Font and font size
 xterm*faceName: Hack
