@@ -1,3 +1,4 @@
+```bash
 " URL: https://vim.wikia.com/wiki/Example_vimrc
 " Authors: https://vim.wikia.com/wiki/Vim_on_Libera_Chat
 " Description: A minimal, but feature rich, example .vimrc. If you are a
@@ -199,9 +200,8 @@ inoremap <leader><leader> <Esc>/[)}"'\]>]<CR>:nohl<CR>a
 "			Plugins
 " ===========================================================
 
-" Load the plugins
+" Load the plugins placed in ~/.vim/pack/plugins/start
 packloadall
-" Plugins are placed in ~/.vim/pack/plugins/start
 
 " Colorscheme
 let g:airline_section_c = '🎸 %F'
@@ -227,3 +227,4 @@ let g:indentLine_showFirstIndentLevel = 1
 "Vim completes me
 autocmd FileType vim let b:vcm_tab_complete = 'vim'
 autocmd FileType vim let g:vcm_omni_pattern = 'vim'
+```
