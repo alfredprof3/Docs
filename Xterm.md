@@ -1,4 +1,4 @@
-1Terminal emulator for the X window system.
+Is a Terminal emulator for the X window system.
 
 ---
 
