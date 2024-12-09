@@ -5,3 +5,6 @@
 - Esta es una prueba
 - Debe de verse
 - Estar completa
+- Si también desde esta lap
+- Deben mostrarse los cambios
+- Todo bien si se muestran
