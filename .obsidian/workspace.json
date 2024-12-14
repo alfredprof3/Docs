@@ -161,8 +161,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "tldraw:Create new tldrawing": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "951690f4b0c3cc9a",
