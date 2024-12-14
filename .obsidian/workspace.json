@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "8af1ada646172ae1",
+    "id": "d2980cc6a1e17224",
     "type": "split",
     "children": [
       {
-        "id": "eb3747b37e7bb26f",
+        "id": "ad4d08ec4633987d",
         "type": "tabs",
         "children": [
           {
-            "id": "951690f4b0c3cc9a",
+            "id": "2c807e11fb758f54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monday-26-Aug-2024.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Monday-26-Aug-2024"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dcc5ce48112be547",
+    "id": "b7bf351b0d53275e",
     "type": "split",
     "children": [
       {
-        "id": "96a1b163ba9e28fb",
+        "id": "8e63d3b938a61281",
         "type": "tabs",
         "children": [
           {
-            "id": "1f6852b3f6b16182",
+            "id": "b4136b3c9bb3d775",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "c62e32763b0cc105",
+            "id": "45c25a02b70ff12c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "58b3b4a9c5bfcc39",
+            "id": "18108e1fb12b8e2c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "ebef66f936c04bf7",
+    "id": "8aed18e91a396fdb",
     "type": "split",
     "children": [
       {
-        "id": "1583b30e997d02c1",
+        "id": "fe2368e6621163c2",
         "type": "tabs",
         "children": [
           {
-            "id": "eb7c02e45e90de4c",
+            "id": "5fa6232cb2ba8355",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monday-26-Aug-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monday-26-Aug-2024"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "8810f1f053fc27fb",
+            "id": "fd283febd4536dc5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monday-26-Aug-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Monday-26-Aug-2024"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "cc33edb93cb02816",
+            "id": "c54301a2dea3d796",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,23 +128,21 @@
             }
           },
           {
-            "id": "8a58b5795c5d4d3a",
+            "id": "44d1ac4b9908533d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Monday-26-Aug-2024.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Monday-26-Aug-2024"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,15 +156,6 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "951690f4b0c3cc9a",
-  "lastOpenFiles": [
-    "Xterm.md",
-    "Vim.md",
-    "Vimrc (dot file).md",
-    "Monday-26-Aug-2024.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled.md",
-    "X server (graphic interface).md",
-    "Ufw debian.md"
-  ]
+  "active": "2c807e11fb758f54",
+  "lastOpenFiles": []
 }
