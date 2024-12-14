@@ -1,4 +1,4 @@
-Is a Terminal emulator for the X window system.
+pIs a Terminal emulator for the X window system.
 
 ---
 
