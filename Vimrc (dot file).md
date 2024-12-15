@@ -1,6 +1,6 @@
 Configuration file for Vim with plugins and user configurations
 
-- Option #1
+###### Option 1
 ```bash
 " URL: https://vim.wikia.com/wiki/Example_vimrc
 " Authors: https://vim.wikia.com/wiki/Vim_on_Libera_Chat
@@ -232,7 +232,7 @@ autocmd FileType vim let b:vcm_tab_complete = 'vim'
 autocmd FileType vim let g:vcm_omni_pattern = 'vim'
 ```
 
-- Option #2
+###### Option 2
 ```bash
 " URL: https://vim.wikia.com/wiki/Example_vimrc
 " Authors: https://vim.wikia.com/wiki/Vim_on_Libera_Chat
