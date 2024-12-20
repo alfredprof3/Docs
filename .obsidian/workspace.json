@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monday-26-Aug-2024.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monday-26-Aug-2024"
+              "title": "README"
             }
           }
         ]
@@ -164,7 +164,7 @@
   },
   "active": "2c807e11fb758f54",
   "lastOpenFiles": [
-    "README.md",
-    "Monday-26-Aug-2024.md"
+    "Monday-26-Aug-2024.md",
+    "README.md"
   ]
 }
