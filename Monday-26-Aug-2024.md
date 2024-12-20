@@ -5,3 +5,4 @@
 - Testing plugins
 - Repo cloned with the token via terminal, command line
 - Test
+- Another test
